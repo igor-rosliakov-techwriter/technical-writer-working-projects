@@ -1,5 +1,3 @@
-# CloudBox CLI: Installation and Setup
-
 # CloudBox CLI installation
 
 CloudBox CLI is a tool for working with cloud files. It is very easy to install and use.
@@ -44,15 +42,12 @@ The file will be uploaded to the cloud. You can also upload other files.
 
 If something doesn't work, try reinstalling the application or contact support.
 
-
-
-
 ---
 
 # Questions for the Developer
 ...
 
-
+---
 
 # Editorial Decisions
 ...
